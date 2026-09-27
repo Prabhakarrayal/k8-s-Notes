@@ -4,7 +4,7 @@
 
 These notes are designed so that reading a concept later should rebuild the mental model, not merely remind you of a definition.
 
-For each major component, ask:
+For each major component, ask: 
 
 ```text
 What is it?
